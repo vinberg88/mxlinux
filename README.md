@@ -1,4 +1,4 @@
-# mxlinux For WSL - Welcome - 2026
+# Mxlinux For WSL - Welcome - 2026
 
 <p align="center">
 <a href="https://github.com/vinberg88/">
