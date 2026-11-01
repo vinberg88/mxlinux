@@ -15,3 +15,32 @@ friendly Forum.
 
 ---
 
+# MX LinuX - Install KDE 6 VIA MX LINUX - 2026
+
+
+How to install KDE 6 via MX LINUX - WSL - TEXT VIA GITHUB
+https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-KDE.txt
+
+
+How to install KDE 6 via MX LINUX - WSL - MOVIE VIA YOUTUBE
+COMMING SONE..
+
+
+<p align="center">
+<a href="https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-KDE.txt">
+<img width="1920" height="1080" alt="MX-LINUX-KDE" src="https://github.com/user-attachments/assets/22303970-f911-4778-87fc-37e77ac156ec" />
+</p>
+
+ABOUT KDE 6 PLASMA - https://kde.org - WSL - 2026
+
+KDE is an international team co-operating on development and distribution of Free, Open
+Source Software for desktop and portable computing. Our community has developed a
+wide variety of applications for communication, work, education and entertainment. We have a
+strong focus on finding innovative solutions to old and new problems, creating a vibrant, open
+atmosphere for experimentation. KDE is The next generation desktop for Linux. Use KDE
+software to surf the web, keep in touch with colleagues, friends and family, manage your
+files, enjoy music and videos; and get creative and productive at work. The KDE community develops
+and maintains more than 200 applications which run on any Linux desktop, and often
+other platforms too.
+
+---
