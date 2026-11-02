@@ -48,12 +48,21 @@ other platforms too.
 # MX LinuX - Install GNOME VIA MX LINUX - 2026
 
 How to install GNOME via MX LINUX - WSL - TEXT VIA GITHUB
-[MX Linux - how to install GNOME](MX-LINUX-GNOME.txt)
+[MX Linux - how to install GNOME - MX LinuX](MX-LINUX-GNOME.txt)
 
 How to install GNOME via MX LINUX - WSL - MOVIE VIA YOUTUBE
-[Guide - Vide0 via YouTUBE how to install GNOME](https://www.youtube.com/watch?v=qrD0upiKW10)
+[Guide - Vide0 via YouTUBE how to install GNOME - MX LinuX](https://www.youtube.com/watch?v=qrD0upiKW10)
 
+<p align="center">
+<a href="https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-GNOME.txt">
+<img width="1920" height="1080" alt="MX-LINUX-GNOME" src="https://github.com/user-attachments/assets/a2397e08-d17c-41b8-9471-2ceefdb54197" />
+</p>
 
+---
+
+Comming desktop for WSL. Budgie, MATE and more - 2026
+
+[Find more Linux desktops here for WSL](https://github.com/vinberg88/)
 
 ---
 
@@ -63,6 +72,4 @@ How to install GNOME via MX LINUX - WSL - MOVIE VIA YOUTUBE
 </p>
 
 Regards Mattias Vinberg  - Stockholm - Sweden - 2026
-
----
 
