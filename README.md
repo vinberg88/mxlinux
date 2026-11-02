@@ -26,6 +26,7 @@ Install KDE 6 via MX LINUX - WSL - MOVIE VIA YOUTUBE
 
 [Guide - Vide0 via YouTUBE - How to install KDE 6 via MX LINUX](https://www.youtube.com/watch?v=qrD0upiKW10)
 
+
 <p align="center">
 <a href="https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-KDE.txt">
 <img width="1920" height="1080" alt="MX-LINUX-KDE" src="https://github.com/user-attachments/assets/22303970-f911-4778-87fc-37e77ac156ec" />
@@ -52,6 +53,7 @@ How to install GNOME via MX LINUX - WSL
 [MX Linux - how to install GNOME - MX LinuX](MX-LINUX-GNOME.txt) - WSL - TEXT VIA GITHUB
 
 [Video is Comming SONE for MX LinuX](https://www.youtube.com/watch?v=qrD0upiKW10) - WSL - MOVIE VIA YOUTUBE
+
 
 <p align="center">
 <a href="https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-GNOME.txt">
