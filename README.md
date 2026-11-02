@@ -48,7 +48,7 @@ other platforms too.
 # MX LinuX - Install GNOME VIA MX LINUX - 2026
 
 How to install GNOME via MX LINUX - WSL - TEXT VIA GITHUB
-Comming SONE.. 
+https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-KDE.txt">
 
 How to install GNOME via MX LINUX - WSL - MOVIE VIA YOUTUBE
 Comming SONE.. 
