@@ -46,7 +46,7 @@ other platforms too.
 ---
 
 <p align="center">
-<a href="https://github.com/vinberg88">
+<a href="https://github.com/vinberg88/mxlinux/tree/main/wallpapers">
 <img width="617" height="207" alt="mxlinux" src="https://github.com/user-attachments/assets/973a493e-f193-4be7-a423-1193a2e45bc7" />
 </p>
 
