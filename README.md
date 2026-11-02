@@ -24,7 +24,7 @@ How to install KDE 6 via MX LINUX - WSL
 
 Install KDE 6 via MX LINUX - WSL - MOVIE VIA YOUTUBE
 
-[Guide - Vide0 via YouTUBE how to install GNOME](https://www.youtube.com/watch?v=qrD0upiKW10)
+[Guide - Vide0 via YouTUBE - How to install KDE 6 via MX LINUX](https://www.youtube.com/watch?v=qrD0upiKW10)
 
 <p align="center">
 <a href="https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-KDE.txt">
