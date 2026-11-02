@@ -11,6 +11,16 @@ former MEPIS Linux communities. Using Xfce as the default desktop (with separate
 it is a mid-weight operating system designed to combine an elegantand efficient desktop with simple configuration, high stability, 
 solid performance and medium-sized footprint.
 
+Examples of wallpaper you can find here
 
+<p align="center">
+<a href="https://github.com/vinberg88/mxlinux">
+<img width="1168" height="784" alt="12image" src="https://github.com/user-attachments/assets/b97486f7-5295-4d48-89c7-b2d482841f88" />
+</p>
 
+<p align="center">
+<a href="https://github.com/vinberg88/mxlinux">
+<img width="1168" height="784" alt="wp8816225-mx-linux-wallpapers" src="https://github.com/user-attachments/assets/688b9e95-6579-4e84-b979-8965e3042cd5" />
+</p>
 
+Regards Mattias Vinberg - Stockholm - 💷 - SWEDEN - 2026
