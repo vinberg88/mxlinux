@@ -47,6 +47,8 @@ other platforms too.
 
 # MX LinuX - Install GNOME VIA MX LINUX - 2026
 
+How to install GNOME via MX LINUX - WSL
+
 [MX Linux - how to install GNOME - MX LinuX](MX-LINUX-GNOME.txt) - WSL - TEXT VIA GITHUB
 
 [Video is Comming SONE for MX LinuX](https://www.youtube.com/watch?v=qrD0upiKW10) - WSL - MOVIE VIA YOUTUBE
@@ -55,6 +57,15 @@ other platforms too.
 <a href="https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-GNOME.txt">
 <img width="1920" height="1080" alt="MX-LINUX-GNOME" src="https://github.com/user-attachments/assets/a2397e08-d17c-41b8-9471-2ceefdb54197" />
 </p>
+
+About Gnome - https://www.gnome.org - 2026
+
+Get things done with ease, comfort, and control. An easy and elegant way to use your 
+computer, GNOME is designed to help you have the best possible computing experience. 
+Every aspect of GNOME has been crafted to fit together as a harmonious whole, providing a 
+consistent and integrated experience. Our attention to detail means a smooth and 
+polished product that lets you do the things you want without getting in the way. 
+GNOME is satisfying to use and beautiful to behold.
 
 ---
 
