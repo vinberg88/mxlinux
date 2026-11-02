@@ -19,9 +19,11 @@ friendly Forum.
 
 
 How to install KDE 6 via MX LINUX - WSL
-[Guide - how to install GNOME 50 via MX LINUX](MX-LINUX-KDE.txt)
+
+[Guide - how to install KDE 6 via MX LINUX](MX-LINUX-KDE.txt)
 
 Install KDE 6 via MX LINUX - WSL - MOVIE VIA YOUTUBE
+
 [Guide - Vide0 via YouTUBE how to install GNOME](https://www.youtube.com/watch?v=qrD0upiKW10)
 
 <p align="center">
