@@ -45,6 +45,18 @@ other platforms too.
 
 ---
 
+# MX LinuX - Install GNOME VIA MX LINUX - 2026
+
+How to install GNOME via MX LINUX - WSL - TEXT VIA GITHUB
+Comming SONE.. 
+
+How to install GNOME via MX LINUX - WSL - MOVIE VIA YOUTUBE
+Comming SONE.. 
+
+
+
+---
+
 <p align="center">
 <a href="https://github.com/vinberg88/mxlinux/tree/main/wallpapers">
 <img width="617" height="207" alt="mxlinux" src="https://github.com/user-attachments/assets/973a493e-f193-4be7-a423-1193a2e45bc7" />
