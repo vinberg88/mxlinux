@@ -58,11 +58,9 @@ other platforms too.
 
 ---
 
-Comming desktop for WSL. Budgie, MATE and more - 2026
+Comming desktop for WSL and MX LINUX. Budgie, MATE and more - 2026 / 2026
 
 [Find more Linux desktops here for WSL](https://github.com/vinberg88/)
-
----
 
 <p align="center">
 <a href="https://github.com/vinberg88/mxlinux/tree/main/wallpapers">
