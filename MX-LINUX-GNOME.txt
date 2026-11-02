@@ -1,7 +1,7 @@
 MX LINUX and GNOME - WSL - Install GNOME via MX LINUX and Windows 11 - YouTUBE - GITHUB - 2026
 
 How to install GNOME via MX LINUX - WSL - TEXT VIA GITHUB
-Comming SONE.. 
+https://github.com/vinberg88/mxlinux/blob/main/MX-LINUX-GNOME.txt
 
 How to install GNOME via MX LINUX - WSL - MOVIE VIA YOUTUBE
 Comming SONE.. 
