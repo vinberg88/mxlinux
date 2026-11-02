@@ -49,7 +49,7 @@ How to install GNOME via MX LINUX - WSL - TEXT VIA GITHUB
 [MX Linux - how to install GNOME](MX-LINUX-GNOME.txt)
 
 How to install GNOME via MX LINUX - WSL - MOVIE VIA YOUTUBE
-Comming SONE...
+[Guide - Vide0 via YouTUBE how to install GNOME](https://www.youtube.com/watch?v=qrD0upiKW10)
 
 
 
