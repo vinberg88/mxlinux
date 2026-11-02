@@ -18,9 +18,7 @@ friendly Forum.
 # MX LinuX - Install KDE 6 VIA MX LINUX - 2026
 
 
-How to install KDE 6 via MX LINUX - WSL
-
-[Guide - how to install KDE 6 via MX LINUX](MX-LINUX-KDE.txt)
+[Guide - how to install KDE 6 via MX LINUX](MX-LINUX-KDE.txt) - WSL - TEXT VIA GITHUB
 
 Install KDE 6 via MX LINUX - WSL - MOVIE VIA YOUTUBE
 
